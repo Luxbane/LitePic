@@ -1,0 +1,6 @@
+dist/
+build/
+.venv/
+LitePic.spec
+__pycache__/
+*.pyc
