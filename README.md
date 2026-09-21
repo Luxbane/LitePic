@@ -21,6 +21,7 @@ Microsoft Photos is a heavy UWP app with a lot going on under the hood (cloud in
 ## Download
 
 Grab the latest build from **[Releases](../../releases/latest)** — extract the zip and run `LitePic.exe`. No installer, no dependencies to set up.
+Or download from **[itch.io](https://luxbane.itch.io/litepic)
 
 ## Setting LitePic as your default photo viewer
 
